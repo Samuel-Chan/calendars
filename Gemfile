@@ -10,6 +10,7 @@ gem 'plek', '2.1.1'
 
 gem 'govuk_frontend_toolkit', '~> 7.4.2'
 gem 'govuk_publishing_components', '~> 6.0.0'
+gem 'govuk_navigation_helpers', '~> 9.2.1'
 
 gem 'rack_strip_client_ip', '0.0.2'
 
